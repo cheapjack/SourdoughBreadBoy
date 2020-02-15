@@ -17,6 +17,16 @@ SourdoughBreadboy is a speculative handheld interspecies gaming platform for a v
  * Identifying and counting yeast
  * PDMS moulded environments from domestic 'capitalist ruins', ie old electronics and utensils and contribute to a social media based community of moulders
 
+## Packages
+
+ * [MrBlinky Homemade Package](https://github.com/MrBlinky/Arduboy-homemade-package)
+ * [Arduboy Life](https://github.com/MLXXXp/ArduboyLife)
+ * [Arduboy 2: Alternative Library Life uses](https://github.com/MLXXXp/Arduboy2)
+ * [Arduboy Original](https://github.com/Arduboy/Arduboy)
+ * [Handy Pin notes for doing SPI with Milecastles screens](https://github.com/cheapjack/MileCastles/blob/master/boxes/AssemblyWiring.md#screen)
+
+
+
 ## MET Matrix
 
 [MET Matrix](MET_Matrix.md)
