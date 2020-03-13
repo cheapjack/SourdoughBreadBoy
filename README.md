@@ -19,6 +19,10 @@ SourdoughBreadboy is a speculative handheld interspecies gaming platform for a v
 
 ## Packages
 
+ * [Arduboy 2 SlimBoy](https://github.com/harbaum/Arduboy2)
+
+Others
+
  * [MrBlinky Homemade Package](https://github.com/MrBlinky/Arduboy-homemade-package)
  * [Arduboy Life](https://github.com/MLXXXp/ArduboyLife)
  * [Arduboy 2: Alternative Library Life uses](https://github.com/MLXXXp/Arduboy2)
