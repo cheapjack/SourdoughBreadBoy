@@ -34,6 +34,7 @@ SourdoughBreadboy is a speculative handheld interspecies gaming platform for a v
    * Tweezers
    * PDMS mix and hardener
  * [Arduboy 2 SlimBoy](https://github.com/harbaum/Arduboy2)
+ * [Conways Game Of Life](https://github.com/MLXXXp/ArduboyLife)
 
 ## References
 
@@ -53,7 +54,7 @@ Map out the energy toxicity matrix so we trace the complete carbon cost of your 
 
 This is a port of the original Arduboy2 code to the simpler and cheaper Arduino Nano and an I²C display.
 
-![Breadboard setup](breadboard.png)
+![Breadboard setup](images/breadboard.png)
 
 The SLIMBOY setup has a few limitations over the original solution:
 
@@ -76,7 +77,7 @@ been ported the the Nano:
 ## Games tested on the Arduino Nano
 
  - ArduBreakout
- - Game Of Life
+ - ArduboyLife
  - Shadow-Runner
  - VIRUS-LQP-79
  - Pinball
@@ -113,7 +114,9 @@ Run `git clone https://github.com/harbaum/Arduboy2.git`
 
 The restart your Arduino programme and the Arduboy2 examples will appear in `File/Examples/Examples From Custom Libraries`
 
-Connect the Arduino Micro by usb and find the port in the Arduino `Tools` menu
+Connect the Arduino Micro by usb; find the port in the Arduino `Tools` menu
+
+Then select the Aruduino Nano board and check it compiles ok. Then upload to the board and check the buttons work.
 
 The Arduboy2 library can also be installed using the Arduino IDE Library Manager but use the slimboy library you can download as a zip from [harbaum](https://github.com/harbaum/Arduboy2)
 
@@ -125,6 +128,18 @@ The Arduboy2 library can also be installed using the Arduino IDE Library Manager
 For more library installation information see
 
 [Installing Additional Arduino Libraries - Using the Library Manager](https://www.arduino.cc/en/Guide/Libraries#toc3)
+
+## Installing Arduboy Life
+
+Again go to your Arduino Sketchbook folder location but don't enter the libraries directory
+
+`cd path/to/my/Arduino/Sketchbook/Folder/`
+
+Run `git clone https://github.com/MLXXXp/ArduboyLife.git`
+
+The restart your Arduino programme and the ArduboyLife game will be available in `File/Sketchbook` in the Arduino software.
+
+
 
 ## Start up features
 
