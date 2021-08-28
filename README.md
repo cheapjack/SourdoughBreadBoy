@@ -1,17 +1,15 @@
-# SourdoughBreadBoy
+# SourdoughBreadBoy🕹️✊🧫
 
 <img src="images/breadboy_with_slide.jpg" width="400">
 <img src="images/sourdough_life.jpg" width="400">
 
-Fork of the [BreadBoy](https://github.com/MrBlinky/Arduboy-homemade-package#pin-wiring-table) via the [Arduboy Community Forum](https://community.arduboy.com/t/breadboy-a-100-non-soldering-homemade-arduboy/5910) a non-soldering DIY breadboard based arduino gameboy based on the [Arduboy](https://arduboy.com/).
+Historical materialist fork of the Arduino based [BreadBoy](https://github.com/MrBlinky/Arduboy-homemade-package#pin-wiring-table) via the [Arduboy Community Forum](https://community.arduboy.com/t/breadboy-a-100-non-soldering-homemade-arduboy/5910) a non-soldering DIY breadboard based arduino gameboy based on the [Arduboy](https://arduboy.com/).
 
-It is a handheld version of the [ArcadeDeBruno](https://domesticscience.org.uk/criticalkits/InF.html) and a response to the [Mikroskopisk PacMan](https://youtu.be/GvZm9EXqrdU) project and the field of biotic gaming. 
+It is a handheld version of the [Mikroskopisk PacMan](https://youtu.be/GvZm9EXqrdU) project and an experiment in the field of biotic gaming and part of ongoing *natureculture* experiments in critical making inspired by Science and Technology Studies [ArcadeDeBruno](https://domesticscience.org.uk/criticalkits/InF.html)
 
-We use the [Slimboy Arduboy2 fork](https://github.com/harbaum/Arduboy2) to make a minimal platform for experimenting with [Prakash Labs](https://web.stanford.edu/group/prakash-lab/cgi-bin/labsite/) DIY paper [Foldscope](https://www.foldscope.com/) 
+We use the [Slimboy Arduboy2 fork](https://github.com/harbaum/Arduboy2) to make a resource constrained platform for experimenting with handheld microscopic Interspecies gaming using [Prakash Labs](https://web.stanford.edu/group/prakash-lab/cgi-bin/labsite/) DIY paper [Foldscope](https://www.foldscope.com/). Combined with the scientific craft practices of microbiologist, biotechnologist and engineer [Alexandre Benedetto's](https://www.lancaster.ac.uk/health-and-medicine/about-us/people/alexandre-benedetto) PDMS microfluidic techniques, which we explore in the [Lab From A Chip](cheapjack.github.io/LabFromAChip/). Games on the platform allow graphics to interact with *Euglena gracilis* a ubiquitous light sensitive photosynthesising algae in microfluidic environments made from impressions of oold vinyl record grooves.
 
-We also make a DIY version of microbiologist, biotechnologist and engineer [Alexandre Benedetto's](https://www.lancaster.ac.uk/health-and-medicine/about-us/people/alexandre-benedetto) PDMS microfluidic techniques, for the use of his research and his students at BLS Lancaster. The technique was inspired by an article originally in [The Worm Breeders Gazette](http://wbg.wormbook.org/2017/07/18/immobilizing-nematodes-for-live-imaging-using-an-agarose-pad-generated-with-a-vinyl-record/) and developed further.
-
-SourdoughBreadboy is a speculative handheld interspecies gaming platform for a variety of slide based microbiological experiments for learning;
+SourdoughBreadboy is a speculative handheld gaming platform for a variety of slide based microbiological experiments for learning;
 
  * Simple protist protest environments
  * Identifying and counting yeast
@@ -19,21 +17,21 @@ SourdoughBreadboy is a speculative handheld interspecies gaming platform for a v
 
 ## Requirements
 
- * Arduino Nano
- * 128 x 64 I<sup>2</sup>C LCD screen 
- * 4 x Microbreadboards
- * 3 x 220 Ohm Resistors
- * 1 x 10K Ohm Resistor
- * Piezo mic/speaker
- * jumper wires and 6 breadboard headers
- * USB A to USB
- * PDMS Lab From A Chip Kit
+ * [Arduboy 2 SlimBoy](https://github.com/harbaum/Arduboy2)
+   * Arduino Nano
+   * 128 x 64 I<sup>2</sup>C LCD screen 
+   * 4 x Microbreadboards
+   * 3 x 220 Ohm Resistors
+   * 1 x 10K Ohm Resistor
+   * Piezo mic/speaker
+   * jumper wires and 6 breadboard headers
+   * USB A to USB
+ * [Lab From A Chip](cheapjack.github.io/LabFromAChip/) Kit
    * Foldscope
    * Standard Microscope Slide
    * Micro petri dish
    * Tweezers
    * PDMS mix and hardener
- * [Arduboy 2 SlimBoy](https://github.com/harbaum/Arduboy2)
  * [Conways Game Of Life](https://github.com/MLXXXp/ArduboyLife)
 
 ## References
