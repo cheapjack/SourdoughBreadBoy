@@ -1,13 +1,13 @@
-# SourdoughBreadBoy🕹️✊🧫
+# SourdoughBreadBoy🕹️✊
 
 <img src="images/breadboy_with_slide.jpg" width="400">
 <img src="images/sourdough_life.jpg" width="400">
 
 Historical materialist fork of the Arduino based [BreadBoy](https://github.com/MrBlinky/Arduboy-homemade-package#pin-wiring-table) via the [Arduboy Community Forum](https://community.arduboy.com/t/breadboy-a-100-non-soldering-homemade-arduboy/5910) a non-soldering DIY breadboard based arduino gameboy based on the [Arduboy](https://arduboy.com/).
 
-It is a handheld version of the [Mikroskopisk PacMan](https://youtu.be/GvZm9EXqrdU) project and an experiment in the field of biotic gaming and part of ongoing *natureculture* experiments in critical making inspired by Science and Technology Studies [ArcadeDeBruno](https://domesticscience.org.uk/criticalkits/InF.html)
+It is a handheld version of the [Mikroskopisk PacMan](https://youtu.be/GvZm9EXqrdU) project and an experiment in the field of biotic gaming and part of ongoing playful *natureculture* experiments in critical making inspired by Science and Technology Studies, [ArcadeDeBruno](https://domesticscience.org.uk/criticalkits/InF.html)
 
-We use the [Slimboy Arduboy2 fork](https://github.com/harbaum/Arduboy2) to make a resource constrained platform for experimenting with handheld microscopic Interspecies gaming using [Prakash Labs](https://web.stanford.edu/group/prakash-lab/cgi-bin/labsite/) DIY paper [Foldscope](https://www.foldscope.com/). Combined with the scientific craft practices of microbiologist, biotechnologist and engineer [Alexandre Benedetto's](https://www.lancaster.ac.uk/health-and-medicine/about-us/people/alexandre-benedetto) PDMS microfluidic techniques, which we explore in the [Lab From A Chip](cheapjack.github.io/LabFromAChip/). Games on the platform allow graphics to interact with *Euglena gracilis* a ubiquitous light sensitive photosynthesising algae in microfluidic environments made from impressions of oold vinyl record grooves.
+We use the [Slimboy Arduboy2 fork](https://github.com/harbaum/Arduboy2) to make a resource constrained platform for experimenting with handheld microscopic inter-species gaming using [Prakash Labs](https://web.stanford.edu/group/prakash-lab/cgi-bin/labsite/) DIY paper [Foldscope](https://www.foldscope.com/). Combined with the scientific craft practices of microbiologist and engineer [Alexandre Benedetto's](https://www.lancaster.ac.uk/health-and-medicine/about-us/people/alexandre-benedetto) PDMS microfluidic techniques, which we explore in the [Lab From A Chip](cheapjack.github.io/LabFromAChip/) kit which the Breadboy is compatible with. Games on the platform allow graphics to interact with *Euglena gracilis* a ubiquitous light sensitive photosynthesising algae in microfluidic environments made from impressions of old vinyl record grooves. The default game to play is [Conways Game Of Life](https://conwaylife.com/wiki/Conway%27s_Game_of_Life)
 
 SourdoughBreadboy is a speculative handheld gaming platform for a variety of slide based microbiological experiments for learning;
 
